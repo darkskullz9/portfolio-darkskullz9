@@ -34,7 +34,7 @@
 /* Logo font */
 @font-face {
     font-family: 'Neotrax';
-    src: url('./fonts/Neotrax.woff2') format('woff2');
+    src: url('../fonts/Neotrax.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -43,7 +43,7 @@
 /* Inter - texte principal */
 @font-face {
     font-family: 'Inter';
-    src: url('./fonts/Inter-Variable.woff2') format('woff2');
+    src: url('../fonts/Inter-Variable.woff2') format('woff2');
     font-weight: 100 900;
     font-style: normal;
     font-display: swap;
@@ -51,7 +51,7 @@
 
 @font-face {
     font-family: 'Inter';
-    src: url('./fonts/Inter-Italic-Variable.woff2') format('woff2');
+    src: url('../fonts/Inter-Italic-Variable.woff2') format('woff2');
     font-weight: 100 900;
     font-style: italic;
     font-display: swap;
@@ -61,7 +61,7 @@
 
 @font-face {
     font-family: 'Rajdhani';
-    src: url('./fonts/Rajdhani-Bold.woff2') format('woff2');
+    src: url('../fonts/Rajdhani-Bold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
